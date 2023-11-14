@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">A passionate AI engineer with a background in business intelligence engineering</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif">
+<img align="right" alt="Coding" width="270" src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimzamit&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimzamit" /> </p>
 
