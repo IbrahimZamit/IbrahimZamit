@@ -1,7 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
+![Banner Github](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">A passionate AI engineer with a background in business intelligence engineering</h3>
-<img align="right" alt="Coding" width="270" src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimzamit&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimzamit" /> </p>
 
@@ -34,3 +33,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimzamit&show_icons=true&locale=en&layout=compact" alt="ibrahimzamit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimzamit&show_icons=true&locale=en" alt="ibrahimzamit" /></p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
