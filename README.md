@@ -1,5 +1,5 @@
 <h3 align="center">Hey there👋, I'm <a href="https://github.com/Ibrahim">Ibrahim</a></h3>
-<br>
+<br><br>
 <h3 align="center">A passionate AI engineer with a background in business intelligence engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimzamit&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimzamit" /> </p>
 
